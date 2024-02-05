@@ -1,0 +1,7 @@
+name: mc_plugin_001
+version: '${project.version}'
+main: me.devchell.mc_plugin_001.Mc_plugin_001
+api-version: '1.20'
+authors: [ DevChell ]
+description: My First Plugin
+website: https://github.com/devchell
