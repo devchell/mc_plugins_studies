@@ -1,0 +1,4 @@
+name: mc_plugin_002
+version: '1.0-SNAPSHOT'
+main: me.devchell.mc_plugin_002.Mc_plugin_002
+api-version: '1.20'
